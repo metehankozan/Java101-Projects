@@ -33,6 +33,6 @@ public class First {
         System.out.println("Ortalamanız: " + avg);
         System.out.print(avg > 60 ? "Geçtiniz" : "Kaldınız");
 
-
+        input.close();
     }
 }
