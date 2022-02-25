@@ -2,7 +2,7 @@ package RecursiveDesign;
 
 public class RecursiveDesign {
     public static void recDesign(int n){
-        if(n < 0){
+        if(n <= 0){
             System.out.print(n+" ");
             return;
         }
