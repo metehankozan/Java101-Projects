@@ -1,0 +1,2 @@
+# Asal Sayı Bulan Program
+Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan program. Ödev kaynağına [buradan](https://app.patika.dev/moduller/java101/odev-recursive-prime) ulaşabilirsiniz.
