@@ -1,7 +1,5 @@
 package EvenDublicates;
 
-import java.util.Arrays;
-
 public class EvenDublicates {
 
     static boolean isPresent(int[] dublicates, int elem){
