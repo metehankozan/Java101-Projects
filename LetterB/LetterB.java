@@ -12,6 +12,10 @@ public class LetterB {
         for(int i=0; i<letter.length; i++){
             for(int j=0; j<letter[i].length; j++){
                 if(i==firstRow || i==midRow || i==lastRow){
+                    if(j == lastCol){
+                        letter[i][j] = "   ";
+                        continue;
+                    }
                     letter[i][j] = " * ";
                 }else if(j==firstCol || j==lastCol){
                     letter[i][j] = " * ";
