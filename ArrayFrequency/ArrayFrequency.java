@@ -1,7 +1,5 @@
 package ArrayFrequency;
 
-import java.util.Arrays;
-
 public class ArrayFrequency {
 
     static void printArrayFrequency(int[] arr){
